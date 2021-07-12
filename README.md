@@ -6,7 +6,7 @@ email: `email@email.com`,
 password: `123456`
 
 ## ⚙ Para iniciar o projeto:
-`git clone https://github.com/mrdouglasmorais/gama-react-rotas-privadas`
+`git clone https://github.com/josiane-rocha/projeto.gama.git
 
 ## ⚙ Gerenciador de pacotes usado é o Yarn:
 `yarn`
